@@ -6,7 +6,7 @@ To make this repo template a reality, we'd need to do the following things:
 
     > We should discuss with VS Code if this makes sense as a general property.
 
-1. Ensure that the Git credentials proxying works for Azure DevOps in Visual Studio
+1. Ensure that the Git credentials proxying works for Azure DevOps in Visual Studio. This should work, but there may be bugs 😄
 
 In order to make this flow a little bit nicer, we could also do the following things over time:
 
