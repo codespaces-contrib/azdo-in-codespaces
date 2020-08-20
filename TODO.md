@@ -1,4 +1,4 @@
-To make this repo template a reality, we'd need to do the following things:
+To make this repo template a reality, we'd need to do the following things (all of which is work we want to do anyways):
 
 1. Add support for the `workspaceFolder` property in `devcontainer.json`, so that Visual Studio would automatically open the sub-module folder upon connecting to the Codespace
 
