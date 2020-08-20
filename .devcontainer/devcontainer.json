@@ -1,6 +1,6 @@
 {
     "workspaceFolder": "workspace",
-    "codespaces: {
+    "codespaces": {
        "recurseSubmodules": true
     }
 }
