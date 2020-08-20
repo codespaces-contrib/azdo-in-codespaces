@@ -6,11 +6,11 @@ This repo template is built to help you get started developing your Azure DevOps
 1. Click the `Use this template` button in order to create a new repo from this template. Name it whatever you'd like!
 1. Open up the `.gitmodules` file and replace the `url` property to point at your Azure DevOps repo
 
-  ```ini
-  [submodule "workspace"]
-	path = workspace
-	url = https://dev.azure.com/<organization>/<project>/_git/<repo>
-  ```
+    ```ini
+    [submodule "workspace"]
+    	path = workspace
+    	url = https://dev.azure.com/<organization>/<project>/_git/<repo>
+    ```
   
 **From Visual Studio:**
 1. Sign in with your GitHub account
