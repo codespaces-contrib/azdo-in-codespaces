@@ -2,7 +2,7 @@
 
 This repo template is built to help you get started developing your Azure DevOps-based codebases using GitHub Codespaces. To get started, simply perform the following steps:
 
-**From GitHub (one-time):**
+**From GitHub:**
 1. Click the `Use this template` button in order to create a new repo from this template 👍
 1. Open up the `.gitmodules` file and replace the `url` property to point at your Azure DevOps repo
 
