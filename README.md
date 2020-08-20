@@ -11,7 +11,7 @@ This repo template is built to help you get started developing your Azure DevOps
     	path = workspace
     	url = https://dev.azure.com/<organization>/<project>/_git/<repo>
     ```
-  
+
 **From Visual Studio:**
 1. Sign in with your GitHub account
 1. Create a new Codespace using the repo you created above
