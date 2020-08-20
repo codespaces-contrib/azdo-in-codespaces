@@ -4,7 +4,7 @@ To make this repo template a reality, we'd need to do the following things:
 
 1. Add support for the `codespaces.recurseSubmodules` property, to indicate that we need to initialize the submodules after cloning.
 
-    > Note: We should discuss with VS Code if this makes sense as a general property.
+    > We should discuss with VS Code if this makes sense as a general property.
 
 1. Ensure that the Git credentials proxying works for Azure DevOps in Visual Studio
 
