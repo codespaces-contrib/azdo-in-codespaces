@@ -1,6 +1,8 @@
 {
     "workspaceFolder": "workspace",
     "codespaces": {
-       "recurseSubmodules": true
+       "subRepos": [
+           "https://devdiv.goo.com/git"
+        ]
     }
 }
