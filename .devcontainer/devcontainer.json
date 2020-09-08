@@ -2,7 +2,7 @@
     "workspaceFolder": "workspace",
     "codespaces": {
        "subRepos": [
-           "https://devdiv.goo.com/git"
+           "https://dev.azure.com/codespaces-demo/azdo-in-codespaces/_git/azdo-in-codespaces"
         ]
     }
 }
