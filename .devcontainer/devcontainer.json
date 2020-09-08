@@ -1,8 +1,4 @@
 {
-    "workspaceFolder": "workspace",
-    "codespaces": {
-       "subRepos": [
-           "https://dev.azure.com/codespaces-demo/azdo-in-codespaces/_git/azdo-in-codespaces"
-        ]
-    }
+    "workspaceFolder": "azdo",
+    "postCreateCommand": "git clone <url> azdo"
 }
