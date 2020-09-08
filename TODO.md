@@ -1,6 +1,6 @@
 To make this repo template a reality, we'd need to do the following things (all of which is work we want to do anyways):
 
-1. :runner: Add support for the `workspaceFolder` property in `devcontainer.json`, so that Visual Studio would automatically open the sub-module folder upon connecting to the Codespace
+1. :runner: Add support for the `workspaceFolder` property in `devcontainer.json`, so that Visual Studio would automatically open the sub-repo folder upon connecting to the Codespace
 
 In order to make this flow a little bit nicer, we could also do the following things over time:
 
