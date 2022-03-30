@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo",
-    "postCreateCommand": "git clone <url> azdo"
+    "postCreateCommand": "git clone https://office.visualstudio.com/DefaultCollection/Office/_git/1JS azdo"
 }
